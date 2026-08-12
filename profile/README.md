@@ -88,7 +88,6 @@ Continuous Improvement
 ## 🤝 Let's Connect
  
 🌐 https://gainsboroinfotech.com/
-𝕏 https://x.com/gainsboro_ittech
 
 
 ⭐ Explore our repositories to see what we're building.
