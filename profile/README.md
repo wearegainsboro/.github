@@ -27,24 +27,6 @@ Our engineering expertise spans Python, React, Node.js, Ruby, Java, Go, and Scal
 - Cloud Solutions
 - Scalable Digital Platforms
 
-### 🌐 Web Development
-- Custom Web Applications
-- Business Websites
-- E-commerce Solutions
-- Modern Frontend Development
-
-### 📱 Mobile App Development
-- iOS Applications
-- Android Applications
-- Cross-Platform Applications
-
-### 🎨 UI/UX Design
-- User Interface Design
-- User Experience Design
-- Product Design
-- Design Systems
-
-
 ## 🛠️ Technology & Expertise
 
 AI & Machine Learning • Generative AI • LLMs • Automation
