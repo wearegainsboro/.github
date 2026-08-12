@@ -38,7 +38,7 @@ Our engineering expertise spans Python, React, Node.js, Ruby, Java, Go, and Scal
 - Swift
 - XML
 
-## Ecommerce Platforms
+### Ecommerce Platforms
 - BigCommerce
 - Kajabi
 - Magento
@@ -69,4 +69,4 @@ From strategy and architecture to development, integration, and long-term optimi
 https://gainsboroinfotech.com/
 
 
-## Explore our repositories to see what we're building.
+Explore our repositories to see what we're building.
