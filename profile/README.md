@@ -71,7 +71,6 @@ to scale, perform, and create measurable business value.
 
 ## 📊 Our Approach
 
-```text
 Business Challenge
        ↓
 AI & Technology Strategy
