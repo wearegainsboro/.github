@@ -64,9 +64,9 @@ From strategy and architecture to development, integration, and long-term optimi
 🚀 Have a project in mind? Hire Gainsboro Infotech and turn your idea into a scalable digital solution.
 
 
-## 🤝 Let's Connect
+## Let's Connect
  
-🌐 https://gainsboroinfotech.com/
+https://gainsboroinfotech.com/
 
 
-⭐ Explore our repositories to see what we're building.
+## Explore our repositories to see what we're building.
