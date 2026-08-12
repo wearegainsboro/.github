@@ -10,7 +10,6 @@ applications, cloud solutions, and intelligent automation — we build
 secure, scalable, and production-ready technology for modern businesses.
 
 
-
 ## 🚀 What We Do
 
 ### 🤖 AI Development
@@ -86,11 +85,9 @@ Deployment
 Continuous Improvement
 
 
-
 ## 🤝 Let's Connect
-
+ 
 🌐 https://gainsboroinfotech.com/
-
 𝕏 https://x.com/gainsboro_ittech
 
 
