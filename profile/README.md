@@ -11,14 +11,17 @@ Our engineering expertise spans Python, React, Node.js, Ruby, Java, Go, and Scal
 
 ## 🚀 What We Do
 
-### 🤖 AI Development
+### 🤖 AI Services
+- AI Consulting
+- AI Development Services
+- Voice and Chatbots
 - AI Agents
-- AI Chatbots
+- Computer Vision
 - Generative AI
-- Custom LLM Integrations
-- Machine Learning
-- Intelligent Automation
-- Predictive Analytics
+- LLM Fine Tuning
+- NLP Development
+- MLOps
+- Multi Modal AI
 
 ### 💻 Software Engineering
 - Custom Software Development
