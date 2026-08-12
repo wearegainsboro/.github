@@ -2,12 +2,11 @@
 
 ### 🤖 AI-Driven Software Development Company
 
-We design and develop intelligent digital solutions that automate
-workflows, improve decision-making, and accelerate business growth.
+We design and develop AI-powered, blockchain-enabled, and eCommerce solutions that help businesses automate operations, enhance decision-making, and accelerate digital growth.
 
-From AI agents and chatbots to custom software, web and mobile
-applications, cloud solutions, and intelligent automation — we build
-secure, scalable, and production-ready technology for modern businesses.
+From AI agents, intelligent chatbots, LLM applications, and automation to blockchain platforms, Web3 solutions, custom software, and enterprise eCommerce, we build secure, scalable, and production-ready technology tailored to modern business needs.
+
+Our engineering expertise spans Python, React, Node.js, Ruby, Java, Go, and Scala, enabling us to deliver robust solutions across web, mobile, cloud, AI/ML, blockchain, and high-performance enterprise ecosystems.
 
 
 ## 🚀 What We Do
