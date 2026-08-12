@@ -9,7 +9,7 @@ From AI agents and chatbots to custom software, web and mobile
 applications, cloud solutions, and intelligent automation — we build
 secure, scalable, and production-ready technology for modern businesses.
 
----
+
 
 ## 🚀 What We Do
 
@@ -46,7 +46,6 @@ secure, scalable, and production-ready technology for modern businesses.
 - Product Design
 - Design Systems
 
----
 
 ## 🛠️ Technology & Expertise
 
@@ -58,7 +57,6 @@ APIs • Databases • Software Engineering
 
 UI/UX • Quality Assurance • Testing
 
----
 
 ## 💡 Why Gainsboro?
 
@@ -70,8 +68,6 @@ solves real business challenges.
 
 We don't just build software — we build digital products designed
 to scale, perform, and create measurable business value.
-
----
 
 ## 📊 Our Approach
 
@@ -90,14 +86,13 @@ Deployment
        ↓
 Continuous Improvement
 
----
+
 
 ## 🤝 Let's Connect
 
-🌐 [Website](https://gainsboroinfotech.com/)
+🌐 https://gainsboroinfotech.com/
 
-𝕏 [Twitter](https://x.com/gainsboro_ittech)
+𝕏 https://x.com/gainsboro_ittech
 
----
 
 ⭐ Explore our repositories to see what we're building.
