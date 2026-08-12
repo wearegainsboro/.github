@@ -23,12 +23,20 @@ Our engineering expertise spans Python, React, Node.js, Ruby, Java, Go, and Scal
 - MLOps
 - Multi Modal AI
 
-### 💻 Software Engineering
-- Custom Software Development
-- Enterprise Applications
-- API Development & Integrations
-- Cloud Solutions
-- Scalable Digital Platforms
+### 💻 Programming Languages
+- .NET
+- Angular
+- Java
+- JavaScript
+- Kotlin
+- Node.js
+- Objective-C
+- PHP
+- Python
+- React
+- Ruby
+- Swift
+- XML
 
 ## 🛠️ Technology & Expertise
 
