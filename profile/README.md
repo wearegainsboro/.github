@@ -11,7 +11,7 @@ Our engineering expertise spans Python, React, Node.js, Ruby, Java, Go, and Scal
 
 ## 🚀 What We Do
 
-### 🤖 AI Services
+### AI Services
 - AI Consulting
 - AI Development Services
 - Voice and Chatbots
@@ -23,7 +23,7 @@ Our engineering expertise spans Python, React, Node.js, Ruby, Java, Go, and Scal
 - MLOps
 - Multi Modal AI
 
-### 💻 Programming Languages
+### Programming Languages
 - .NET
 - Angular
 - Java
@@ -38,7 +38,7 @@ Our engineering expertise spans Python, React, Node.js, Ruby, Java, Go, and Scal
 - Swift
 - XML
 
-## 🛒 Ecommerce Platforms
+## Ecommerce Platforms
 - BigCommerce
 - Kajabi
 - Magento
@@ -53,7 +53,7 @@ Our engineering expertise spans Python, React, Node.js, Ruby, Java, Go, and Scal
 - WordPress
 
 
-## 💡 Why Gainsboro?
+## Why Gainsboro?
 
 We don’t simply follow technology trends — we engineer solutions that put emerging technologies to work for real businesses.
 
