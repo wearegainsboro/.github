@@ -38,15 +38,19 @@ Our engineering expertise spans Python, React, Node.js, Ruby, Java, Go, and Scal
 - Swift
 - XML
 
-## 🛠️ Technology & Expertise
-
-AI & Machine Learning • Generative AI • LLMs • Automation
-
-Web Development • Mobile Development • Cloud
-
-APIs • Databases • Software Engineering
-
-UI/UX • Quality Assurance • Testing
+## 🛒 Ecommerce Platforms
+- BigCommerce
+- Kajabi
+- Magento
+- Neto
+- PrestaShop
+- Shopify
+- Shopify Plus
+- Squarespace Commerce
+- Webflow
+- Wix Stores
+- WooCommerce
+- WordPress
 
 
 ## 💡 Why Gainsboro?
