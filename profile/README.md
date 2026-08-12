@@ -68,22 +68,6 @@ solves real business challenges.
 We don't just build software — we build digital products designed
 to scale, perform, and create measurable business value.
 
-## 📊 Our Approach
-
-Business Challenge
-       ↓
-AI & Technology Strategy
-       ↓
-Solution Design
-       ↓
-Development
-       ↓
-Testing & Optimization
-       ↓
-Deployment
-       ↓
-Continuous Improvement
-
 
 ## 🤝 Let's Connect
  
