@@ -19,7 +19,7 @@ for modern businesses.
 
 </div>
 
-<hr style="...">
+<hr>
 
 ## About Gainsboro
 
@@ -34,7 +34,7 @@ create better digital experiences.
 Our engineering capabilities span **AI, cloud, web, mobile,
 eCommerce, blockchain and custom software development**.
 
-...
+<hr>
 
 ## What We Build
 
