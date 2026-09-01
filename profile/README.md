@@ -5,7 +5,8 @@
 
 <div align="center">
 
-<h1 style="color: #14A800;">Gainsboro Infotech</h1>
+<!-- <h1 style="color: #14A800;">Gainsboro Infotech</h1> -->
+<img src="./gainsboro-infotech-title.svg" alt="Gainsboro Infotech">
 
 ### AI • Cloud • Web • Mobile • Software Engineering
 
