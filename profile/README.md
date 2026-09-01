@@ -141,7 +141,7 @@ eCommerce, blockchain and custom software development**.
 
 # Technology Stack
 
-## Artificial Intelligence
+### Artificial Intelligence
 
 <p>
 <img src="https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white">
@@ -152,7 +152,7 @@ eCommerce, blockchain and custom software development**.
 <img src="https://img.shields.io/badge/MLOps-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -163,7 +163,7 @@ eCommerce, blockchain and custom software development**.
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
 </p>
 
-## Backend
+### Backend
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
@@ -174,7 +174,7 @@ eCommerce, blockchain and custom software development**.
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
 </p>
 
-## Cloud & DevOps
+### Cloud & DevOps
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
@@ -184,7 +184,7 @@ eCommerce, blockchain and custom software development**.
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 </p>
 
-## Databases
+### Databases
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
@@ -192,7 +192,7 @@ eCommerce, blockchain and custom software development**.
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 </p>
 
-## eCommerce
+### eCommerce
 
 <p>
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white">
