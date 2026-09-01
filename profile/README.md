@@ -19,7 +19,7 @@ for modern businesses.
 
 </div>
 
----
+...
 
 ## About Gainsboro
 
@@ -34,7 +34,7 @@ create better digital experiences.
 Our engineering capabilities span **AI, cloud, web, mobile,
 eCommerce, blockchain and custom software development**.
 
----
+...
 
 ## What We Build
 
@@ -137,7 +137,7 @@ eCommerce, blockchain and custom software development**.
 </tr>
 </table>
 
----
+...
 
 ## Technology Stack
 
@@ -201,7 +201,7 @@ eCommerce, blockchain and custom software development**.
 <img src="https://img.shields.io/badge/BigCommerce-121118?style=flat">
 </p>
 
----
+...
 
 ## Featured Projects
 
@@ -217,7 +217,7 @@ production-oriented solutions across different areas of technology.
 | 💰 [Expense Tracker](https://github.com/wearegainsboro/Expense-Tracker) | Personal finance and expense management application | JavaScript |
 | 🎬 [Netflix Clone](https://github.com/wearegainsboro/Netflix-Clone) | Streaming-platform inspired web application | JavaScript |
 
----
+...
 
 ## 🤖 AI & Emerging Technology
 
