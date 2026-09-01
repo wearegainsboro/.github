@@ -252,5 +252,5 @@ Web
 ## 📊 Gainsboro at a Glance
 
 <p align="center">
-  <img src="./gainsboro-github-stats.svg" alt="Gainsboro GitHub Statistics">
+  <img src="./gainsboro-github-stats.svg">
 </p>
