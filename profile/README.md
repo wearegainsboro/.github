@@ -36,8 +36,6 @@ eCommerce, blockchain and custom software development**.
 
 ## What We Build
 
-## 🚀 What We Build
-
 <table width="100%">
   <tr>
     <td width="33.33%" valign="top">
