@@ -19,7 +19,7 @@ for modern businesses.
 
 </div>
 
-...
+<hr style="...">
 
 ## About Gainsboro
 
