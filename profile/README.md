@@ -36,9 +36,9 @@ eCommerce, blockchain and custom software development**.
 
 ## What We Build
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 AI & Automation
 
@@ -53,9 +53,9 @@ eCommerce, blockchain and custom software development**.
 - MLOps
 - Multimodal AI
 
-    </td>
+</td>
 
-    <td width="50%" valign="top">
+<td width="50%">
 
 ### ☁️ Cloud & Backend
 
@@ -69,11 +69,11 @@ eCommerce, blockchain and custom software development**.
 - Database Systems
 - Scalable Infrastructure
 
-    </td>
-  </tr>
+</td>
+</tr>
 
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%">
 
 ### 💻 Web & Mobile
 
@@ -87,9 +87,9 @@ eCommerce, blockchain and custom software development**.
 - Mobile Applications
 - Custom Web Applications
 
-    </td>
+</td>
 
-    <td width="50%" valign="top">
+<td width="50%">
 
 ### 🛒 eCommerce
 
@@ -103,33 +103,36 @@ eCommerce, blockchain and custom software development**.
 - Webflow
 - Custom eCommerce Solutions
 
-    </td>
-  </tr>
+</td>
+</tr>
 
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%">
 
 ### 🔗 Blockchain & Web3
 
-- Blockchain Development
+- Blockchain Applications
+- Web3 Solutions
 - Smart Contracts
-- Web3 Applications
 - Decentralized Applications
+- Blockchain Integrations
 
-    </td>
+</td>
 
-    <td width="50%" valign="top">
+<td width="50%">
 
 ### ⚙️ Custom Software
 
-- Enterprise Applications
 - SaaS Platforms
-- API Integrations
+- Enterprise Applications
 - Business Automation
-- Custom Software Solutions
+- CRM Integrations
+- API Integrations
+- Workflow Systems
+- Custom Business Solutions
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 
