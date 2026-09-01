@@ -198,7 +198,6 @@ eCommerce, blockchain and custom software development**.
 <img src="https://img.shields.io/badge/BigCommerce-121118?style=flat">
 </p>
 
-...
 
 ## Featured Projects
 
