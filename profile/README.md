@@ -36,7 +36,7 @@ eCommerce, blockchain and custom software development**.
 
 ---
 
-## 🚀 What We Build
+## What We Build
 
 <table>
 <tr>
