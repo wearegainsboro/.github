@@ -144,61 +144,61 @@ eCommerce, blockchain and custom software development**.
 ## Artificial Intelligence
 
 <p>
-<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=googlegemini&logoColor=white">
-<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/NLP-5C3EE8?style=for-the-badge">
-<img src="https://img.shields.io/badge/Computer_Vision-4285F4?style=for-the-badge">
-<img src="https://img.shields.io/badge/MLOps-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=flat&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/NLP-5C3EE8?style=flat">
+<img src="https://img.shields.io/badge/Computer_Vision-4285F4?style=flat">
+<img src="https://img.shields.io/badge/MLOps-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
 ## Frontend
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
 </p>
 
 ## Backend
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
 </p>
 
 ## Cloud & DevOps
 
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 </p>
 
 ## Databases
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 </p>
 
 ## eCommerce
 
 <p>
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white">
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
-<img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white">
-<img src="https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge">
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white">
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white">
+<img src="https://img.shields.io/badge/Magento-EE672F?style=flat&logo=magento&logoColor=white">
+<img src="https://img.shields.io/badge/BigCommerce-121118?style=flat">
 </p>
 
 ---
