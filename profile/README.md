@@ -20,7 +20,7 @@ for modern businesses.
 </div>
 
 
-## About Gainsboro
+### About Gainsboro
 
 Gainsboro Infotech is a technology and software development company
 focused on building intelligent, scalable and production-ready
@@ -34,7 +34,7 @@ Our engineering capabilities span **AI, cloud, web, mobile,
 eCommerce, blockchain and custom software development**.
 
 
-## What We Build
+### What We Build
 
 <table width="100%">
   <tr>
@@ -211,7 +211,7 @@ production-oriented solutions across different areas of technology.
 | 🎬 [Netflix Clone](https://github.com/wearegainsboro/Netflix-Clone) | Streaming-platform inspired web application | JavaScript |
 
 
-## 🤖 AI & Emerging Technology
+## AI & Emerging Technology
 
 We are actively exploring and building solutions around:
 
