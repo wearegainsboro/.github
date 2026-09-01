@@ -249,9 +249,3 @@ Web
    ├── Python
    └── Modern APIs
 ```
-
-## 📊 Gainsboro at a Glance
-
-<p align="center">
-  <img src="./gainsboro-company-stats.png" alt="Gainsboro Company Statistics">
-</p>
