@@ -207,9 +207,9 @@ production-oriented solutions across different areas of technology.
 | [Coding Agent](https://github.com/wearegainsboro/Coding-Agent) | AI-powered coding and development assistant | Python · AI |
 | [Blockchain Voting System](https://github.com/wearegainsboro/Blockchain-Voting-System) | Blockchain-based voting application | Python · Blockchain |
 | [Traffic Prediction System](https://github.com/wearegainsboro/Traffic-Prediction-System) | Machine-learning based traffic prediction | Python · Machine Learning |
-| [Instagram Clone](https://github.com/wearegainsboro/Instagram-Clone) | Social media application inspired by modern platforms | JavaScript |
-| [Expense Tracker](https://github.com/wearegainsboro/Expense-Tracker) | Personal finance and expense management application | JavaScript |
-| [Netflix Clone](https://github.com/wearegainsboro/Netflix-Clone) | Streaming-platform inspired web application | JavaScript |
+| [Instagram Clone](https://github.com/wearegainsboro/Instagram-Clone) | Social media application inspired by modern platforms | React |
+| [Expense Tracker](https://github.com/wearegainsboro/Expense-Tracker) | Personal finance and expense management application | Python |
+| [Netflix Clone](https://github.com/wearegainsboro/Netflix-Clone) | Streaming-platform inspired web application | React |
 
 
 ## AI & Emerging Technology
