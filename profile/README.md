@@ -139,7 +139,7 @@ eCommerce, blockchain and custom software development**.
 
 ---
 
-# Technology Stack
+## Technology Stack
 
 ### Artificial Intelligence
 
@@ -203,7 +203,7 @@ eCommerce, blockchain and custom software development**.
 
 ---
 
-# 🔥 Featured Projects
+## Featured Projects
 
 Our repositories showcase experiments, prototypes and
 production-oriented solutions across different areas of technology.
