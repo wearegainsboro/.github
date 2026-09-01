@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🚀 Gainsboro Infotech
+# Gainsboro Infotech
 
 ### AI • Cloud • Web • Mobile • Software Engineering
 
@@ -20,7 +20,7 @@ for modern businesses.
 
 ---
 
-## 👋 About Gainsboro
+## About Gainsboro
 
 Gainsboro Infotech is a technology and software development company
 focused on building intelligent, scalable and production-ready
@@ -138,9 +138,9 @@ eCommerce, blockchain and custom software development**.
 
 ---
 
-# 🧰 Technology Stack
+# Technology Stack
 
-## 🤖 Artificial Intelligence
+## Artificial Intelligence
 
 <p>
 <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white">
@@ -151,7 +151,7 @@ eCommerce, blockchain and custom software development**.
 <img src="https://img.shields.io/badge/MLOps-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-## 💻 Frontend
+## Frontend
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -162,7 +162,7 @@ eCommerce, blockchain and custom software development**.
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
 
-## ⚙️ Backend
+## Backend
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
@@ -173,7 +173,7 @@ eCommerce, blockchain and custom software development**.
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </p>
 
-## ☁️ Cloud & DevOps
+## Cloud & DevOps
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -183,7 +183,7 @@ eCommerce, blockchain and custom software development**.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-## 🗄️ Databases
+## Databases
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -191,7 +191,7 @@ eCommerce, blockchain and custom software development**.
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-## 🛒 eCommerce
+## eCommerce
 
 <p>
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white">
