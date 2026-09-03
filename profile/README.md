@@ -145,6 +145,25 @@ blockchain, and custom software development.**
 <img src="https://img.shields.io/badge/MLOps-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
+### Blockchain
+
+<p>
+<img src="https://img.shields.io/badge/Blockchain-14A800?style=for-the-badge&logo=bitcoin&logoColor=white">
+<img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+
 ### Frontend
 
 <p>
@@ -167,15 +186,6 @@ blockchain, and custom software development.**
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </p>
 
-### Cloud & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
 
 ### Databases
 
@@ -192,14 +202,6 @@ blockchain, and custom software development.**
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
 <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white">
 <img src="https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge">
-</p>
-
-### Blockchain
-
-<p>
-<img src="https://img.shields.io/badge/Blockchain-14A800?style=for-the-badge&logo=bitcoin&logoColor=white">
-<img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white">
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
 </p>
 
 
