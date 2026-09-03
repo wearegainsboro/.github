@@ -24,6 +24,8 @@ for modern businesses.
 <img src="https://img.shields.io/badge/Web-14A800?style=for-the-badge&logo=googlechrome&logoColor=white">
 <img src="https://img.shields.io/badge/Mobile-14A800?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/eCommerce-14A800?style=for-the-badge&logo=shopify&logoColor=white">
+
+<img src="https://img.shields.io/badge/Solidity%20%26%20EVM%20%7C%20Smart%20Contracts%20%7C%20DeFi%20%7C%20NFTs-14A800?style=for-the-badge&logo=ethereum&logoColor=white">
 </p>
 
 </div>
