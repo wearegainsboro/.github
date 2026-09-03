@@ -8,6 +8,13 @@
 <!-- <h1 style="color: #14A800;">Gainsboro Infotech</h1> -->
 <img src="https://github.com/wearegainsboro/.github/blob/main/profile/my-portfolio-small.svg">
 
+### AI • Cloud • Web • Mobile • Software Engineering
+
+Building secure, scalable and intelligent digital products
+for modern businesses.
+
+<br>
+
 <p>
 <img src="https://img.shields.io/badge/AI-14A800?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Cloud-14A800?style=for-the-badge&logo=icloud&logoColor=white">
@@ -17,15 +24,6 @@
 <img src="https://img.shields.io/badge/Blockchain-14A800?style=for-the-badge&logo=bitcoin&logoColor=white">
 <img src="https://img.shields.io/badge/Software%20Engineering-14A800?style=for-the-badge&logo=git&logoColor=white">
 </p>
-
-Building secure, scalable and intelligent digital products
-for modern businesses.
-
-<br>
-
-![Hire Me](https://img.shields.io/badge/Hire%20Me-14A800?style=for-the-badge&logo=handshake&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-wearegainsboro-14A800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wearegainsboro)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-14A800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.gainsboro@gmail.com)
 
 </div>
 
