@@ -16,6 +16,7 @@ for modern businesses.
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-wearegainsboro-14A800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wearegainsboro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-14A800?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 
 </div>
 
@@ -23,9 +24,7 @@ for modern businesses.
 ### About Me
 
 I'm a developer focused on building modern, scalable,
-and user-friendly digital solutions.
-
-I work with businesses, startups, and individuals to turn
+and user-friendly digital solutions. I work with businesses, startups, and individuals to turn
 ideas into functional websites, web applications,
 and custom software.
 
