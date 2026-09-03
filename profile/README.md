@@ -194,6 +194,14 @@ blockchain, and custom software development.**
 <img src="https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge">
 </p>
 
+### Blockchain
+
+<p>
+<img src="https://img.shields.io/badge/Blockchain-14A800?style=for-the-badge&logo=bitcoin&logoColor=white">
+<img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+</p>
+
 
 ## Featured Projects
 
