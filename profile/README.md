@@ -136,12 +136,12 @@ blockchain, and custom software development.**
 ### Artificial Intelligence
 
 <p>
-<img src="https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat&logo=googlegemini&logoColor=white">
-<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=flat&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/NLP-5C3EE8?style=flat">
-<img src="https://img.shields.io/badge/Computer_Vision-4285F4?style=flat">
-<img src="https://img.shields.io/badge/MLOps-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/NLP-5C3EE8?style=for-the-badge">
+<img src="https://img.shields.io/badge/Computer_Vision-4285F4?style=for-the-badge">
+<img src="https://img.shields.io/badge/MLOps-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ### Frontend
