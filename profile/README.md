@@ -134,7 +134,6 @@ blockchain, and custom software development.**
 
 ## Technology Stack
 
-Artificial Intelligence
 <p>
 <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=googlegemini&logoColor=white">
@@ -144,7 +143,6 @@ Artificial Intelligence
 <img src="https://img.shields.io/badge/MLOps-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-Blockchain
 <p>
 <img src="https://img.shields.io/badge/Blockchain-14A800?style=for-the-badge&logo=bitcoin&logoColor=white">
 <img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white">
