@@ -31,10 +31,10 @@ for modern businesses.
 
 ### About Me
 
-I'm a developer focused on building modern, scalable,
-and user-friendly digital solutions. I work with businesses, startups, and individuals to turn
-ideas into functional websites, web applications,
-and custom software.
+Senior software engineer specializing in **Blockchain, Web3, AI, and full-stack application development.** Experienced in designing and delivering production-ready solutions across **Solidity, EVM, smart contracts, DeFi, NFTs, React, Node.js, and cloud technologies.**
+
+I focus on building **secure, scalable, high-performance systems,** from smart contract architecture and blockchain integrations to complete Web3 applications and backend infrastructure.
+
 
 
 ### What I Build
