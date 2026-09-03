@@ -16,16 +16,30 @@ for modern businesses.
 <br>
 
 <p>
-<img src="https://img.shields.io/badge/AI-14A800?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Cloud-14A800?style=for-the-badge&logo=icloud&logoColor=white">
-<img src="https://img.shields.io/badge/Blockchain-14A800?style=for-the-badge&logo=bitcoin&logoColor=white">
-<img src="https://img.shields.io/badge/Software%20Engineering-14A800?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Solidity%20%26%20EVM-14A800?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/Smart%20Contracts-14A800?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/DeFi-14A800?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/NFTs-14A800?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/Foundry%20%26%20Hardhat-14A800?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/Ethers.js-14A800?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/Web3%20Integrations-14A800?style=for-the-badge&logo=web3dotjs&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Web-14A800?style=for-the-badge&logo=googlechrome&logoColor=white">
-<img src="https://img.shields.io/badge/Mobile-14A800?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/eCommerce-14A800?style=for-the-badge&logo=shopify&logoColor=white">
-
-<img src="https://img.shields.io/badge/Solidity%20%26%20EVM%20%7C%20Smart%20Contracts%20%7C%20DeFi%20%7C%20NFTs-14A800?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/React-14A800?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-14A800?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-14A800?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-14A800?style=for-the-badge&logo=express&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/AI%20%2F%20LLM-14A800?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/RAG-14A800?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/API%20%26%20Backend%20Architecture-14A800?style=for-the-badge&logo=fastapi&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/AWS-14A800?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Scalable%20Cloud%20%26%20Production%20Systems-14A800?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Security-14A800?style=for-the-badge&logo=letsencrypt&logoColor=white">
+<img src="https://img.shields.io/badge/Testing-14A800?style=for-the-badge&logo=testinglibrary&logoColor=white">
+<img src="https://img.shields.io/badge/Gas%20Optimization-14A800?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/System%20Architecture-14A800?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
 </p>
 
 </div>
