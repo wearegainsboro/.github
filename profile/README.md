@@ -21,21 +21,20 @@ for modern businesses.
 </div>
 
 
-### About Gainsboro
+### About Me
 
-Gainsboro Infotech is a technology and software development company
-focused on building intelligent, scalable and production-ready
-digital solutions.
+I'm a developer focused on building modern, scalable,
+and user-friendly digital solutions.
 
-We combine modern software engineering with emerging technologies
-to help businesses automate operations, improve decision-making and
-create better digital experiences.
+I work with businesses, startups, and individuals to turn
+ideas into functional websites, web applications,
+and custom software.
 
-Our engineering capabilities span **AI, cloud, web, mobile,
-eCommerce, blockchain and custom software development**.
+My capabilities span **AI, cloud, web, mobile, eCommerce,
+blockchain, and custom software development.**
 
 
-### What We Build
+### What I Build
 
 <table width="100%">
   <tr>
