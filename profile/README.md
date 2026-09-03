@@ -17,7 +17,7 @@ for modern businesses.
 
 [![GitHub](https://img.shields.io/badge/GitHub-wearegainsboro-14A800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wearegainsboro)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-14A800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.gainsboro@gmail.com)
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-14A800?style=for-the-badge&logo=handshake&logoColor=white)](YOUR_HIRE_ME_URL)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-14A800?style=for-the-badge&logo=handshake&logoColor=white)](#)
 
 </div>
 
