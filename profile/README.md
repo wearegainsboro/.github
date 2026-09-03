@@ -36,9 +36,6 @@ and user-friendly digital solutions. I work with businesses, startups, and indiv
 ideas into functional websites, web applications,
 and custom software.
 
-My capabilities span **AI, cloud, web, mobile, eCommerce,
-blockchain, and custom software development.**
-
 
 ### What I Build
 
