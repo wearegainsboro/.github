@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- <h1 style="color: #14A800;">Gainsboro Infotech</h1> -->
-<img src="https://github.com/wearegainsboro/.github/blob/main/profile/gainsboro-infotech-title.svg">
+<!-- <img src="https://github.com/wearegainsboro/.github/blob/main/profile/gainsboro-infotech-title.svg"> -->
 
 ### AI • Cloud • Web • Mobile • Software Engineering
 
