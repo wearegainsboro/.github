@@ -15,7 +15,6 @@ for modern businesses.
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-gainsboroinfotech.com-14A800?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gainsboroinfotech.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-wearegainsboro-14A800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wearegainsboro)
 
 </div>
@@ -198,8 +197,7 @@ blockchain, and custom software development.**
 
 ## Featured Projects
 
-Our repositories showcase experiments, prototypes and
-production-oriented solutions across different areas of technology.
+My repositories showcase experiments, prototypes, and production-oriented solutions across different areas of technology.
 
 | Project | Description | Technology |
 |:---|:---|:---|
@@ -213,7 +211,7 @@ production-oriented solutions across different areas of technology.
 
 ## AI & Emerging Technology
 
-We are actively exploring and building solutions around:
+I'm actively exploring and building solutions around:
 
 ```text
 AI Agents
