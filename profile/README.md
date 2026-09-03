@@ -16,7 +16,7 @@ for modern businesses.
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-wearegainsboro-14A800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wearegainsboro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-14A800?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-14A800?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 
 </div>
 
