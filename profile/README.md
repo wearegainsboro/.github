@@ -8,7 +8,7 @@
 <!-- <h1 style="color: #14A800;">Gainsboro Infotech</h1> -->
 <img src="https://github.com/wearegainsboro/.github/blob/main/profile/my-portfolio-small.svg">
 
-### AI • Cloud • Web • Mobile • Software Engineering
+### Blockchain & Full-Stack Engineer | 12+ Years Experience
 
 12+ years of experience turning complex technical requirements <br>into reliable, production-ready software.
 
