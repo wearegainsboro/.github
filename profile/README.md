@@ -10,8 +10,7 @@
 
 ### AI • Cloud • Web • Mobile • Software Engineering
 
-Building secure, scalable and intelligent digital products
-for modern businesses.
+12+ years of experience turning complex technical requirements into reliable, production-ready software.
 
 <br>
 
