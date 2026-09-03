@@ -14,7 +14,7 @@
 
 <br>
 
-### Core Expertise:
+### Core Expertise
 <p>
 <img src="https://img.shields.io/badge/Solidity%20%26%20EVM-14A800?style=for-the-badge&logo=ethereum&logoColor=white">
 <img src="https://img.shields.io/badge/Smart%20Contracts-14A800?style=for-the-badge&logo=ethereum&logoColor=white">
