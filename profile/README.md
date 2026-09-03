@@ -10,7 +10,7 @@
 
 ### AI • Cloud • Web • Mobile • Software Engineering
 
-12+ years of experience turning complex technical requirements into reliable, production-ready software.
+12+ years of experience turning complex technical requirements <br>into reliable, production-ready software.
 
 <br>
 
